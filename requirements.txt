@@ -1,0 +1,7 @@
+snowflake-sqlalchemy
+snowflake-connector-python
+pandas
+pyarrow
+matplotlib
+seaborn
+ipython-sql
